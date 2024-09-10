@@ -1,1 +1,1 @@
-# cross-platform-programming-5th-semester
+# Репозиторій для робіт з предмету "Кросплатформне програмування"
